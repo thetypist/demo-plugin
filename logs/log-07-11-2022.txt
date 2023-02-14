@@ -1,0 +1,44 @@
+2022-11-07 20:44:22 : Sending data to psbp
+
+2022-11-07 20:44:22 : Array
+
+2022-11-07 20:46:04 : Sending data to psbp
+
+2022-11-07 20:46:04 : {"headers":{},"body":"","response":{"code":200,"message":"OK"},"cookies":[{"name":"__cf_bm","value":"DtLKzwodbHBXYspZmdeCwwDaWTMQz7dpFdICAlW2WzA-1667879164-0-AZQzq4KFiYzMJT7ydrp9wMrzF62lpURxB4de3hktVCp1euVJw3BVCnWx97aRjuSCILKeipIvSDb4VDhuOAiyCQA=","expires":1667880964,"path":"\/","domain":"listingsapi.commercialcafe.com","port":null,"host_only":false}],"filename":null,"http_response":{"data":null,"headers":null,"status":null}}
+
+2022-11-07 21:41:02 : Sending data to link
+
+2022-11-07 21:41:03 : {"headers":{},"body":"","response":{"code":404,"message":"Not Found"},"cookies":[{"name":"__cf_bm","value":"6HbIrOz5a10HBpZqW4FWmx59E6RGf4GpBwWRk0q9eX8-1667882463-0-Aee5Yx6ow07AEEByTejhgOtgQ lt9IVt5E kKsJ1T9WQKHv68RPelws5T3tw8hpOr2n5Qr2FW9ElJQCKb5fGw\/g=","expires":1667884263,"path":"\/","domain":"listingsapi.commercialcafe.com","port":null,"host_only":false}],"filename":null,"http_response":{"data":null,"headers":null,"status":null}}
+
+2022-11-07 21:50:02 : Sending data to psbp
+
+2022-11-07 21:50:02 : Sending data to add lead.
+
+2022-11-07 21:50:02 : {"method":"POST","headers":{"Content-Type":"application\/json","Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6IkEyR25FVFVVTUZNYWFWSklJWUY2bGluWU5hayIsImtpZCI6IkEyR25FVFVVTUZNYWFWSklJWUY2bGluWU5hayJ9.eyJpc3MiOiJodHRwczovL2xpc3RpbmdzYXBpLmNvbW1lcmNpYWxjYWZlLmNvbS9pZGVudGl0eSIsImF1ZCI6Imh0dHBzOi8vbGlzdGluZ3NhcGkuY29tbWVyY2lhbGNhZmUuY29tL2lkZW50aXR5L3Jlc291cmNlcyIsImV4cCI6MTY2Nzk2NTQ2MiwibmJmIjoxNjY3ODc5MDYyLCJjbGllbnRfaWQiOiJwc2J1c2luZXNzcGFya3MiLCJyb2xlIjoiYXBpX2NsaWVudCIsInNjb3BlIjoic3luZGljYXRpb24ifQ.bc9R1bOrpMsOquK6JqB0_M9mI70Y20r_fdWqG8zyzVOTe8cr1Vpll_bKaVsPiP4Kw6Z02iSQT4VzWVe1-oxy_vK2LJ92M2lUP8InH8YQIQXIMKFyaW_s06NYbDcNAud4GQQ315snMNpIn1JGNaomRcIYbgnbbDGkWYfAy40VDZ_FLFM1Ao8q-ANshNQzBlLqSoKIe1O2mdd2jGaf4SePci4aT42E-yQB7xMvJUJvwYFezdNAMvDHFp8n3RytRpifKdZ1dP9vJp0XSGalfuaTDLhjUnvvAOUZgYqgc46ggSDzaiOgsVpwJt1OvHUE4eje-jJ2rbTPfU1RhP3fR1nNNg"},"body":"{\"FirstName\":\"test\",\"LastName\":\"test\",\"Email\":\"nur1952@gmail.com\",\"Phone\":8801913919,\"PropertyId\":\"830718\",\"CompanyName\":\"Codist\",\"Message\":\"Website - Request Information | Full Name: test test | Lead Email: nur1952@gmail.com | Market: Southern California | Park: The Row | Availability: 23451 Avenida De La Carlota, Suite B | Comments: test | Broker: cpretto@psbusinessparks.com | ID: 830718\"}"}
+
+2022-11-07 21:50:02 : {"headers":{},"body":"","response":{"code":200,"message":"OK"},"cookies":[{"name":"__cf_bm","value":"lTYCvHGRg_APpZaEJVIphGt3jd_HE75Ly7kCGkMuVkk-1667883002-0-AQczlRnu 9lZIKhIjmliSv9kINwwzssW7C03LIBx\/9LTpriIMd3kszSxpVSLdBxIeJMWmchagXUQc3vVNXMXLfA=","expires":1667884802,"path":"\/","domain":"listingsapi.commercialcafe.com","port":null,"host_only":false}],"filename":null,"http_response":{"data":null,"headers":null,"status":null}}
+
+2022-11-07 21:50:15 : Sending data to link
+
+2022-11-07 21:50:15 : Sending data to add lead.
+
+2022-11-07 21:50:15 : {"method":"POST","headers":{"Content-Type":"application\/json","Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6IkEyR25FVFVVTUZNYWFWSklJWUY2bGluWU5hayIsImtpZCI6IkEyR25FVFVVTUZNYWFWSklJWUY2bGluWU5hayJ9.eyJpc3MiOiJodHRwczovL2xpc3RpbmdzYXBpLmNvbW1lcmNpYWxjYWZlLmNvbS9pZGVudGl0eSIsImF1ZCI6Imh0dHBzOi8vbGlzdGluZ3NhcGkuY29tbWVyY2lhbGNhZmUuY29tL2lkZW50aXR5L3Jlc291cmNlcyIsImV4cCI6MTY2Nzk2NTQ2MiwibmJmIjoxNjY3ODc5MDYyLCJjbGllbnRfaWQiOiJwc2J1c2luZXNzcGFya3MiLCJyb2xlIjoiYXBpX2NsaWVudCIsInNjb3BlIjoic3luZGljYXRpb24ifQ.bc9R1bOrpMsOquK6JqB0_M9mI70Y20r_fdWqG8zyzVOTe8cr1Vpll_bKaVsPiP4Kw6Z02iSQT4VzWVe1-oxy_vK2LJ92M2lUP8InH8YQIQXIMKFyaW_s06NYbDcNAud4GQQ315snMNpIn1JGNaomRcIYbgnbbDGkWYfAy40VDZ_FLFM1Ao8q-ANshNQzBlLqSoKIe1O2mdd2jGaf4SePci4aT42E-yQB7xMvJUJvwYFezdNAMvDHFp8n3RytRpifKdZ1dP9vJp0XSGalfuaTDLhjUnvvAOUZgYqgc46ggSDzaiOgsVpwJt1OvHUE4eje-jJ2rbTPfU1RhP3fR1nNNg"},"body":"{\"FirstName\":\"Test\",\"LastName\":\"Test\",\"Email\":\"nur1952@gmail.com\",\"Phone\":8801913919,\"PropertyId\":\"1781351\",\"CompanyName\":\"Codist\",\"Message\":\"Website - Request Information | Full Name: Test Test | Lead Email: nur1952@gmail.com | Market: Southern California | Park: Harbor Business Center | Availability: 3621 W. MacArthur, Suite 110 | Comments: Test | Broker: kprice@linklogistics.com | ID: 1781351\"}"}
+
+2022-11-07 21:50:15 : {"headers":{},"body":"","response":{"code":404,"message":"Not Found"},"cookies":[{"name":"__cf_bm","value":"C9CXIfHOnzQrQJdrbjLH_kjNWDUercyd3o50rwd4VEU-1667883015-0-AeX9v4NnrfmhKMaVS1xKyeWXHHNOzR1\/AUNqli9Db6tvGttvEmHqUcriPYBjhYiAdfQdfsQmZwBtvqLaaJB\/B20=","expires":1667884815,"path":"\/","domain":"listingsapi.commercialcafe.com","port":null,"host_only":false}],"filename":null,"http_response":{"data":null,"headers":null,"status":null}}
+
+2022-11-07 22:10:38 : Sending data to psbp
+
+2022-11-07 22:10:38 : Sending data to add lead.
+
+2022-11-07 22:10:38 : {"method":"POST","headers":{"Content-Type":"application\/json","Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6IkEyR25FVFVVTUZNYWFWSklJWUY2bGluWU5hayIsImtpZCI6IkEyR25FVFVVTUZNYWFWSklJWUY2bGluWU5hayJ9.eyJpc3MiOiJodHRwczovL2xpc3RpbmdzYXBpLmNvbW1lcmNpYWxjYWZlLmNvbS9pZGVudGl0eSIsImF1ZCI6Imh0dHBzOi8vbGlzdGluZ3NhcGkuY29tbWVyY2lhbGNhZmUuY29tL2lkZW50aXR5L3Jlc291cmNlcyIsImV4cCI6MTY2Nzg5MjYyMCwibmJmIjoxNjY3ODA2MjIwLCJjbGllbnRfaWQiOiJwc2J1c2luZXNzcGFya3MiLCJyb2xlIjoiYXBpX2NsaWVudCIsInNjb3BlIjoic3luZGljYXRpb24ifQ.bQiWnh2RFwSu-L8sEmk7oaqdAHLzTRwKN2EQB7TXE740uhR__Q9naEr0HBqF05_gk7eMegBOxK7KT_eeu4HWryQlsU1TOCnYg_Tvo6WdGe9NvGXK3xX73sVTte9IoDOCNNi5asyVv0nT6LbiNt6fZGwLdZ_gU-9SYxAE0FStIcC5MlFB7x1Qt-Tn2W9AwQoZxJsen7P4hkzN1jGeVMqN6PIhomqhiXDe0Pz5J5MhPfFab9vakO4hjT112x3J0WItoUgIZs7xSfAwAqpzB20XO1-9uB8njdtgkObRvDNxp1dV_U6Trm3oh93X3ZYN3eHp8sJFJqIBdw7k5mQ-P9nf-g"},"body":"{\"FirstName\":\"test\",\"LastName\":\"test\",\"Email\":\"nur1952@gmail.com\",\"Phone\":8801913919,\"PropertyId\":\"830718\",\"CompanyName\":\"Codist\",\"Message\":\"Website - Request Information | Full Name: test test | Lead Email: nur1952@gmail.com | Market: Southern California | Park: The Row | Availability: 23451 Avenida De La Carlota, Suite B | Comments:  | Broker: cpretto@psbusinessparks.com | ID: 830718\"}"}
+
+2022-11-07 22:10:39 : {"headers":{},"body":"","response":{"code":200,"message":"OK"},"cookies":[{"name":"__cf_bm","value":"7z_WZxkRQLA1vMp3um4yUoMKMBgZt_TNSiPZyjgrqTY-1667884239-0-AS6FL1coy0QwvI MA\/E\/tjV3564yC9 Xf0QJerq\/ma0AyUx41e8AKv9B6b5GQXVy0gOQXk0Qg8vGryywyyWFFWs=","expires":1667886039,"path":"\/","domain":"listingsapi.commercialcafe.com","port":null,"host_only":false}],"filename":null,"http_response":{"data":null,"headers":null,"status":null}}
+
+2022-11-07 22:11:00 : Sending data to link
+
+2022-11-07 22:11:00 : Sending data to add lead.
+
+2022-11-07 22:11:00 : {"method":"POST","headers":{"Content-Type":"application\/json","Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6IkEyR25FVFVVTUZNYWFWSklJWUY2bGluWU5hayIsImtpZCI6IkEyR25FVFVVTUZNYWFWSklJWUY2bGluWU5hayJ9.eyJpc3MiOiJodHRwczovL2xpc3RpbmdzYXBpLmNvbW1lcmNpYWxjYWZlLmNvbS9pZGVudGl0eSIsImF1ZCI6Imh0dHBzOi8vbGlzdGluZ3NhcGkuY29tbWVyY2lhbGNhZmUuY29tL2lkZW50aXR5L3Jlc291cmNlcyIsImV4cCI6MTY2Nzg5Mjg3MSwibmJmIjoxNjY3ODA2NDcxLCJjbGllbnRfaWQiOiJMaW5rbG9naXN0aWNzIiwicm9sZSI6ImFwaV9jbGllbnQiLCJzY29wZSI6InN5bmRpY2F0aW9uIn0.soQwadq7p1qJTuPJm8oBYrZ0wZEpzs44DIUw_tTqiasxZsVozyr1SK7POPXt-QdBXw-Si3pnv_AIeQMxgzu0J365qJ7E1bqDt8FmZ15BNZRSW6h0dDsN1cNfjfSdgesLrqmJU3cH_7Fov-iE-0L21QmTlIgL5mPu90TRvmA00RoFKdwFBia0ltK_eflZfkmacCefBtgN7VVxM2g4UqDcx6YksIFE-Wda6yar4j6DYoSgmjFcoULGHf93M4DOvvVNBVYKCUQmK_BP7by-hrQ0v67IbkeQ1pZqXKSSNqmFfOA-6z8_623sqCbu2V2S7tqAm48sRpyU5c2BUWCjMLXd-w"},"body":"{\"FirstName\":\"tetst\",\"LastName\":\"tetst\",\"Email\":\"nur1952@gmail.com\",\"Phone\":8801913919,\"PropertyId\":\"1781351\",\"CompanyName\":\"Codist\",\"Message\":\"Website - Request Information | Full Name: tetst tetst | Lead Email: nur1952@gmail.com | Market: Southern California | Park: Harbor Business Center | Availability: 3621 W. MacArthur, Suite 110 | Comments: tst | Broker: kprice@linklogistics.com | ID: 1781351\"}"}
+
+2022-11-07 22:11:00 : {"headers":{},"body":"","response":{"code":200,"message":"OK"},"cookies":[{"name":"__cf_bm","value":"uEF7rvxRq3QgyxoVSi_xstyNoxlVSp8Jv8YwdAwYnug-1667884260-0-AZ3VyH3\/tqrmR1kTmv\/yJSyLCHHf Kaj7pbU9fg2M\/3O94FxXVeCvbnX2zUnRD TzgKRWftq8PW0jdE98OFtHrs=","expires":1667886060,"path":"\/","domain":"listingsapi.commercialcafe.com","port":null,"host_only":false}],"filename":null,"http_response":{"data":null,"headers":null,"status":null}}
+
